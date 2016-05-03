@@ -1,28 +1,28 @@
 ---
-datePublished: '2016-05-03T17:50:06.553Z'
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JAb9AYB3sJY'
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-05-03T20:16:50.065Z'
+dateModified: '2016-05-03T19:54:36.266Z'
 related: []
 author:
   - name: ''
     url: 'https://www.youtube.com/user/smetodiev'
     avatar: {}
-dateModified: '2016-05-03T17:49:17.492Z'
 title: 2015 Mildred Miller International Voice Competition Finals
 app_links: []
+sourcePath: _posts/2016-05-03-2015-mildred-miller-international-voice-competition-finals.md
+published: true
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-description: ''
-sourcePath: _posts/2016-05-03-2015-mildred-miller-international-voice-competition-finals.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-authors: []
 starred: true
 _context: 'http://schema.org'
 _type: VideoObject
