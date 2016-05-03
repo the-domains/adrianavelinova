@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Bulgarian soprano Adriana Velinova is a finalist of the 2015 Mildred Miller International Voice Competition. Ms. Velinova was recently seen as the Countess in Opera Theater of Pittsburgh Young Artist Program’s 2015 production of Le nozze di Figaro. She has also performed the roles of Nella in Puccini’s Gianni Schicchi, Madama Cortese in Rossini’s Il viaggio a Reims, and Parasha in Stravinsky’s Mavra under the baton of Maestro Joseph Colaneri as a member of the Mannes Opera. Ms. Velinova has sung Aurore in Massenet’s Le Portrait de Manon with the International Vocal Arts Institute, Montréal; and Lauretta in Puccini’s Gianni Schicchi with the UNLV Opera Theatre. She made her Carnegie Weill Recital Hall debut in the Musical Treasures from Bulgaria concert series where she is a featured artist. Ms. Velinova has also graced Kennedy Center’s Millennium Stage in Washington D.C. and The National Opera America Center in New York. Adriana Velinova is the recepient of the Marianne Cornetti Resident Artist Scholarship awarded by the Opera Theater of Pittsburgh. Ms. Velinova holds a Master of Music and an Undergraduate Diploma in classical voice from Mannes College, The New School for Music. She also has a Bachelor’s degree in Piano from the University of Nevada, Las Vegas. Adriana Velinova will be joining the roster of Vocal Fellows at Tanglewood Music Center for their 2016 season. Upcoming performances include a concert collaboration with Vladimir Feltsman and Lucie Robert at Merkin Hall this coming fall.'
-datePublished: '2016-05-03T20:46:54.807Z'
-dateModified: '2016-05-03T20:46:49.618Z'
+datePublished: '2016-05-03T23:20:28.362Z'
+dateModified: '2016-05-03T20:47:01.922Z'
 sourcePath: _posts/2016-05-03-adriana-velinova.md
 author: []
 published: true
