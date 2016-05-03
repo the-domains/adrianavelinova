@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Resume
-datePublished: '2016-05-03T23:23:59.202Z'
-dateModified: '2016-05-03T23:23:45.702Z'
+datePublished: '2016-05-03T23:24:12.431Z'
+dateModified: '2016-05-03T23:24:05.835Z'
 sourcePath: _posts/2016-05-03-adriana-velinova.md
 author: []
 published: true
