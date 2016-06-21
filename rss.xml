@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Adriana Velinova]]></title>
         <description><![CDATA[Adriana Velinova]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adrianavelinova/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 21:16:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 21:19:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adrianavelinova/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2015 Mildred Miller International Voice Competition Finals]]></title>
+            <description><![CDATA[<article><h1>2015 Mildred Miller International Voice Competition Finals</h1><p>Uploaded by Svetly Metodiev on 2016-05-03.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JAb9AYB3sJY</link>
+            <guid isPermaLink="false">1d388ba7-82e4-40f1-a3c8-6e2642c83290</guid>
+            <pubDate>Tue, 21 Jun 2016 21:19:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bc68257-3c3d-4687-9ad8-7393ecbae71d.jpg">]]></description>
-            <link>undefined665e968d-2f62-4d77-9d85-3f29f158cce7/index.html</link>
+            <link>https://thegrid.ai/adrianavelinova/665e968d-2f62-4d77-9d85-3f29f158cce7/index.html</link>
             <guid isPermaLink="false">665e968d-2f62-4d77-9d85-3f29f158cce7</guid>
             <pubDate>Tue, 21 Jun 2016 21:16:15 GMT</pubDate>
         </item>
