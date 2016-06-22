@@ -61,11 +61,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JAb9AYB3sJY'
 title: 2015 Mildred Miller International Voice Competition Finals
-datePublished: '2016-06-22T20:34:35.407Z'
-dateModified: '2016-06-22T20:34:34.737Z'
+datePublished: '2016-06-22T20:35:49.811Z'
+dateModified: '2016-06-22T20:35:49.446Z'
 sourcePath: >-
   _posts/2016-06-21-2015-mildred-miller-international-voice-competition-finals.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
