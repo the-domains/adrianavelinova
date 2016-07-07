@@ -2,6 +2,7 @@ name: Adriana Velinova
 favicon: null
 layout_spectrum: 0.06501
 typography_spectrum: 0.93805
+style: the-composer
 collections:
   - index:
       path: /
