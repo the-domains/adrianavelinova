@@ -1,8 +1,35 @@
-name: Adriana Velinova
-favicon: null
-layout_spectrum: 0.06501
 typography_spectrum: 0.93805
+color:
+  brandColors:
+    - '#050708'
+    - '#ffffff'
+    - '#9d9b9b'
+    - '#555354'
+    - '#b0b1b1'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.06501
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Adriana Velinova
+cta:
+  domain: null
+  bucket: null
+  version: null
 style: the-composer
+navigation:
+  - id: dd4f862b-3095-41a5-8b60-b9459dbb736d
+    name: Gallery
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +42,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#050708'
-    - '#ffffff'
-    - '#9d9b9b'
-    - '#555354'
-    - '#b0b1b1'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
 purpose: []
