@@ -19,6 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: null
 name: Adriana Velinova
 cta:
   domain: null
@@ -29,7 +30,8 @@ navigation:
   - id: dd4f862b-3095-41a5-8b60-b9459dbb736d
     name: Gallery
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5829005d-f1c9-44cd-85e8-90b8c1aaf701.png
 collections:
   - index:
       path: /
