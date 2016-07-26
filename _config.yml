@@ -1,4 +1,4 @@
-typography_spectrum: 0.5801504948176444
+typography_spectrum: 0.9813321537803859
 color:
   brandColors:
     - '#050708'
@@ -15,7 +15,7 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a2e58f-cc53-4f29-8d23-ff7f6151e06e.png
   type: null
   appId: null
-layout_spectrum: 0.46392737748101354
+layout_spectrum: 0.9617837422993034
 analytics:
   google: null
   facebook: null
