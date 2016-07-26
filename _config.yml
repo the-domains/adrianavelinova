@@ -27,7 +27,10 @@ cta:
   bucket: null
   version: null
 style: the-composer
-navigation: []
+navigation:
+  - id: aef18ed8-a714-4b49-b2f0-b84896b79efd
+    name: Videos
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5829005d-f1c9-44cd-85e8-90b8c1aaf701.png
 collections:
