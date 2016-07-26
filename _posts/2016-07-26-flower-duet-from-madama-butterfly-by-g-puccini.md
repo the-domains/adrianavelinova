@@ -1,19 +1,17 @@
 ---
-datePublished: '2016-07-26T21:10:04.651Z'
-isBasedOnUrl: 'https://www.youtube.com/watch?v=uLJpJ_EBpV4&feature=youtu.be'
+datePublished: '2016-07-26T21:12:01.825Z'
 author: []
 via: {}
-dateModified: '2016-07-26T21:00:40.700Z'
+dateModified: '2016-07-26T21:12:00.560Z'
 title: Flower Duet from Madama Butterfly by G. Puccini
 publisher: {}
 description: >-
   Adriana Velìnova, soprano; Véronique Rapin, mezzo-soprano; Lora Tchekoratova,
   piano
-starred: false
 sourcePath: _posts/2016-07-26-flower-duet-from-madama-butterfly-by-g-puccini.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: flower-duet-from-madama-butterfly-by-g-puccini/index.html
 _type: MediaObject
 
 ---
