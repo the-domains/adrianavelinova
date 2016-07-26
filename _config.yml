@@ -1,4 +1,4 @@
-typography_spectrum: 0.9813321537803859
+typography_spectrum: 0.93805
 color:
   brandColors:
     - '#050708'
@@ -15,7 +15,7 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a2e58f-cc53-4f29-8d23-ff7f6151e06e.png
   type: null
   appId: null
-layout_spectrum: 0.9617837422993034
+layout_spectrum: 0.06501
 analytics:
   google: null
   facebook: null
@@ -27,10 +27,7 @@ cta:
   bucket: null
   version: null
 style: the-composer
-navigation:
-  - id: dd4f862b-3095-41a5-8b60-b9459dbb736d
-    name: Gallery
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5829005d-f1c9-44cd-85e8-90b8c1aaf701.png
 collections:
