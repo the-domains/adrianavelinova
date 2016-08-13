@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-13T06:51:29.730Z'
+datePublished: '2016-08-13T17:38:59.003Z'
 author: []
 via: {}
-dateModified: '2016-08-13T06:51:29.295Z'
+dateModified: '2016-08-13T17:38:58.557Z'
 title: Meet the award winning Bulgarian soprano Adriana Velinova.
 publisher: {}
 description: ''
