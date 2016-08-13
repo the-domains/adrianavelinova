@@ -27,13 +27,6 @@ cta:
   bucket: null
   version: null
 style: the-composer
-navigation:
-  - name: Gallery
-    id: 0db008e4-1b92-4365-a6e4-fea463b6c265
-    type: content
-  - name: Bio
-    id: e30dbfc8-6595-4a31-a607-3bba0f990eee
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5829005d-f1c9-44cd-85e8-90b8c1aaf701.png
 collections:
