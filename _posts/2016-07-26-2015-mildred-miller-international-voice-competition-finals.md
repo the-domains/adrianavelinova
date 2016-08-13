@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-07-26T20:43:47.268Z'
+datePublished: '2016-08-13T17:42:20.544Z'
+sourcePath: >-
+  _posts/2016-07-26-2015-mildred-miller-international-voice-competition-finals.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JAb9AYB3sJY'
 keywords:
   - duration
@@ -13,12 +15,9 @@ keywords:
   - bill
   - gospel
 related: []
-author:
-  - name: Svetly Metodiev
-    url: 'https://www.youtube.com/user/smetodiev'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-07-26T20:43:09.932Z'
+dateModified: '2016-08-13T17:42:20.092Z'
 title: 2015 Mildred Miller International Voice Competition Finals
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=JAb9AYB3sJY&feature=applinks'
@@ -65,8 +64,6 @@ publisher:
 description: ''
 inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-07-26-2015-mildred-miller-international-voice-competition-finals.md
 inFeed: true
 hasPage: false
 inNav: false
